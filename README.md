@@ -5,8 +5,8 @@
 #### 🌎 I'm a passionate developer from [London Ontario, Canada]([https://en.wikipedia.org/wiki/london](https://en.wikipedia.org/wiki/London,_Ontario)).
 
 - 🔭 I’m currently working on [NES emulator in rust](https://github.com/dannyhvc/nes_emulator_rust).
-- 🌱 I’m currently learning [Your Current Topic of Interest](https://github.com/yourusername/yourtopic).
-- 👯 I’m looking to collaborate on [](https://github.com/yourusername/yourfutureproject).
+- 🌱 I’m currently learning [MOS 6502 Instruction Set](https://github.com/yourusername/yourtopic).
+- 👯 I’m looking to collaborate on [My Rust Graphics Library](https://github.com/dannyhvc/dh_rust_graphics).
 - 💬 Ask me about [Software Development](https://yourwebsite.com/about).
 - 📫 How to reach me: [danherrerav@gmail.com](mailto:danherrerav@gmail.com).
 - 😄 Pronouns: [he/him](https://pronoun.is/yourpreferredpronouns).
@@ -22,4 +22,4 @@
 
 #### 🤝 Connect with Me
 
-[![Your Social Media Platform](https://img.shields.io/badge/Social-Media%20Platform-blue)](https://yourprofile.com)
+[![My Social Media](https://img.shields.io/badge/Social-Media%20Platform-blue)](https://yourprofile.com)
