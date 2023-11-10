@@ -10,7 +10,7 @@
 - 💬 Ask me about [Software Development](https://yourwebsite.com/about).
 - 📫 How to reach me: [danherrerav@gmail.com](mailto:danherrerav@gmail.com).
 - 😄 Pronouns: [he/him](https://pronoun.is/yourpreferredpronouns).
-- ⚡ Fun fact: [My Interesting Fun Fact](https://en.wikipedia.org/wiki/Your_interesting_fun_fact).
+- ⚡ Fun fact: [My Interesting Fun Fact](https://en.wikipedia.org/wiki/Symbolics).
 
 #### 🔧 Technologies & Tools
 
