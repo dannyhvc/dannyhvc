@@ -16,4 +16,4 @@
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannyhvc&count_private=true&show_icons=true&theme=radical)](https://github.com/dannyhvc/github-readme-stats)
 
 #### 🤝 Connect with Me
-[![My Social Media](https://img.shields.io/badge/Social-Media%20Platform-blue)](https://yourprofile.com)
+[![My Social Media](https://www.linkedin.com/in/daniel-herrera-vazquez/)
