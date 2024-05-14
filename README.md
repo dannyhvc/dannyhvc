@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [NES emulator in rust](https://github.com/dannyhvc/nes_emulator_rust).
 - 🌱 I’m currently learning [MOS 6502 Instruction Set](https://github.com/yourusername/yourtopic).
 - 😄 Pronouns: [he/him](https://pronoun.is/yourpreferredpronouns).
-- ⚡ Fun fact: [My Interesting Fun Fact](https://en.wikipedia.org/wiki/Symbolics).
+- ⚡ Fun fact: [My Interesting Fun Fact](https://en.wikipedia.org/wiki/Symbolics#First_.com_domain).
 
 #### 🔧 Technologies & Tools
 [![My tech stack](https://img.shields.io/badge/Tech%20Stack-Your%20Tech%20Stack-blue)](https://yourwebsite.com/about)
